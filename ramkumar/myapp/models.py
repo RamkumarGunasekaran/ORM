@@ -8,4 +8,4 @@ class football_player(models.Model):
     p_salary=models.IntegerField()
     
 class football_playerAdmin(admin.ModelAdmin):
-    list_display=('p_name','p_age','p_country','p_email')
+    list_display=('p_name','p_age','p_country','p_email','p_salary')
