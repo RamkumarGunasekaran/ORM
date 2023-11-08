@@ -41,8 +41,8 @@ class foodball_playerAdmin(admin.ModelAdmin):
 
 
 ## OUTPUT
+![Alt text](<Screenshot (11).png>)
 
-![Alt text](<Screenshot (2).png>)
 
 
 ## RESULT
